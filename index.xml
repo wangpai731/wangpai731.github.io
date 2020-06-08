@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>http://www.mynovel.top/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jun 2020 20:49:07 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.mynovel.top/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://www.mynovel.top/post/welcome/</link>
+      <pubDate>Sun, 07 Jun 2020 20:49:07 +0800</pubDate>
+      
+      <guid>http://www.mynovel.top/post/welcome/</guid>
+      <description>测试</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.mynovel.top/about/</link>
+      <pubDate>Sun, 07 Jun 2020 20:11:06 +0800</pubDate>
+      
+      <guid>http://www.mynovel.top/about/</guid>
+      <description>大家好，我是渣渣辉。 简介 出生地：香港 性别：男 年龄：38 演员经历 是兄弟就来啃我 是兄弟就来啃我啊 是兄弟就来啃我啊哈哈</description>
+    </item>
+    
+  </channel>
+</rss>
