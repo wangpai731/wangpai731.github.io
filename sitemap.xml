@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://www.mynovel.top/</loc>
-    <lastmod>2020-06-07T20:49:07+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://www.mynovel.top/categories/fantasy/</loc>
     <lastmod>2020-06-07T20:49:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,6 +24,13 @@
   
   <url>
     <loc>http://www.mynovel.top/post/jade-dynasty-chapter-1-qingyun/</loc>
+    <lastmod>2020-06-07T20:49:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mynovel.top/</loc>
     <lastmod>2020-06-07T20:49:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
