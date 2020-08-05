@@ -3,14 +3,56 @@
   
   <url>
     <loc>http://www.mynovel.top/categories/</loc>
-    <lastmod>2020-07-30T17:54:38+08:00</lastmod>
+    <lastmod>2020-08-05T11:25:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mynovel.top/tags/eternal-thought/</loc>
+    <lastmod>2020-08-05T11:25:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mynovel.top/post/eternal-thought-chapter-ii-fire-kitchen/</loc>
+    <lastmod>2020-08-05T11:25:50+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://www.mynovel.top/categories/fantasy/</loc>
-    <lastmod>2020-07-30T17:54:38+08:00</lastmod>
+    <lastmod>2020-08-05T11:25:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mynovel.top/</loc>
+    <lastmod>2020-08-05T11:25:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mynovel.top/post/</loc>
+    <lastmod>2020-08-05T11:25:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mynovel.top/tags/</loc>
+    <lastmod>2020-08-05T11:25:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.mynovel.top/post/eternal-thought-chapter-one-his-name-is-bai-xiaochun/</loc>
+    <lastmod>2020-08-05T11:25:37+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,27 +66,6 @@
   
   <url>
     <loc>http://www.mynovel.top/post/jade-dynasty-chapter-256-killing-immortals/</loc>
-    <lastmod>2020-07-30T17:54:38+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mynovel.top/</loc>
-    <lastmod>2020-07-30T17:54:38+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mynovel.top/post/</loc>
-    <lastmod>2020-07-30T17:54:38+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.mynovel.top/tags/</loc>
     <lastmod>2020-07-30T17:54:38+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
